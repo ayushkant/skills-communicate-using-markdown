@@ -6,6 +6,11 @@ Hey Ayush Kant!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
+# Hello World
+## This is an `<h1>` header, which is the largest
+### This is an `<h2>` header
+#### This is an `<h6>` header, which is the smallest
+
 Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ayushkant/skills-communicate-using-markdown/issues/1)
